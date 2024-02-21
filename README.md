@@ -1,1 +1,1 @@
-# Macro Hub
+# Mana Hub
